@@ -26,7 +26,7 @@ const greeting = {
     `A passionate Developer 🚀 Seeking Entry Level [Fullstack/Software Developer | DevOps/Infrastructure/Cloud Engineer] fulltime / intern position in the United States 🇺🇸.`
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1JJWyxuMamfCfIqf80R08dW6LV6Gdw3Xz/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
